@@ -1,4 +1,3 @@
-# test/system/questions_test.rb
 require "application_system_test_case"
 
 class QuestionsTest < ApplicationSystemTestCase
